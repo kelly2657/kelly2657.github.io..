@@ -1067,7 +1067,7 @@ h6 {
 #pricing .card {
   border: 0;
   border-radius: 0px;
-  box-shadow: 0 3px 0px 0 rgba(65, 62, 102, 0.08);
+  box-shadow: 0 3px 0px 0 rgba(65, 62, 102, 0.4);
   transition: all .3s ease-in-out;
   padding: 40px 0;
   position: relative;
@@ -1087,7 +1087,7 @@ h6 {
 #pricing .card:hover {
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
-  box-shadow: 0 20px 35px 0 rgba(0, 0, 0, 0.08);
+  box-shadow: 0 20px 35px 0 rgba(0, 0, 0, 0.4);
 }
 
 #pricing .card:hover:after {
