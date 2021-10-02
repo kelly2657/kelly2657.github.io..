@@ -1067,7 +1067,7 @@ h6 {
 #pricing .card {
   border: 0;
   border-radius: 0px;
-  box-shadow: 0 3px 0px 0 rgba(65, 62, 102, 0.4);
+  box-shadow: 0 3px 0px 0 rgba(65, 62, 102, 0.04);
   transition: all .3s ease-in-out;
   padding: 40px 0;
   position: relative;
@@ -1115,7 +1115,7 @@ h6 {
   border: 0px;
   padding: 10px;
   color: #413e66;
-  font-weight: 270;
+  font-weight: 300;
 }
 
 #pricing .card h3 {
@@ -1139,7 +1139,7 @@ h6 {
 }
 
 #pricing .card .list-group {
-  margin-bottom: 13px;
+  margin-bottom: 10px;
 }
 
 #pricing .card .btn {
