@@ -1112,9 +1112,9 @@ h6 {
 
 #pricing .card .list-group-item {
   border: 0px;
-  padding: 5px;
+  padding: 3px;
   color: #413e66;
-  font-weight: 300;
+  font-weight: 270;
 }
 
 #pricing .card h3 {
@@ -1138,7 +1138,7 @@ h6 {
 }
 
 #pricing .card .list-group {
-  margin-bottom: 10px;
+  margin-bottom: 7px;
 }
 
 #pricing .card .btn {
